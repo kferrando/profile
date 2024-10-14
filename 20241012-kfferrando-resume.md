@@ -3,8 +3,11 @@
 #### DevOps / Site Reliability Engineer
 
 *Portland, OR 97201*
+
 *(503) 985-6445*
+
 *kfferrando@gmail.com*
+
 *LinkedIn : https://www.linkedin.com/in/kfferrando/*
 
 ## Professional Summary
@@ -18,23 +21,23 @@ Highly motivated technology professional with an extensive background in leading
 
 **Infrastructure** (Kubernetes/Containers)
 
-**GitOps Deployment** (terraform/argocd/cloudformation/helm/kustomize)  
+**GitOps Deployment** (terraform/argocd/cloudformation/helm/kustomize)
 
-**Code** (bash/python/golang)  
+**Code** (bash/python/golang)
 
 **CI/CD** (Github Actions/CircleCI/TravisCI/Gitlab/Jenkins)
 
-**Networking** (Istio/httpd/OIDC)  
+**Networking** (Istio/httpd/OIDC)
 
 **Database** (PostgreSQL/MySQL)
 
-**Monitoring** (Prometheus/Loki/Datadog/Cloudwatch)  
+**Monitoring** (Prometheus/Loki/Datadog/Cloudwatch)
 
 ---
 ## Work History
 
 *November 2021 to Present*
-### Tatari Corporation (San Francisco, CA - remote)
+#### Tatari Corporation (San Francisco, CA - remote)
 - Migrated complex internal ETL processes from S3 buckets, API Gateway and lambda functions feeding PostgreSQL ingestion to Databricks/PySpark and infrastructure, processing billions of records daily via Apache Airflow jobs and developer notebooks.
 
 - Reduced Datadog spend by over 50% and eliminated redundant Cloud provider logging cost by implementing k8s hosted logging with Loki, Prometheus stack for metrics and Grafana dashboards.
@@ -45,7 +48,7 @@ Highly motivated technology professional with an extensive background in leading
 
 *May 2016 to August 2020*
 #### Mozilla Corporation (San Francisco, CA - remote)
-**Staff Site Reliability Engineer**    
+**Staff Site Reliability Engineer**
 
 - Migrated company's most active support website with 9M visitors per month from legacy cloud deployments into IT, rebuilding all infrastructure into kops k8s clusters in AWS with zero unplanned downtime.
 
@@ -55,7 +58,7 @@ Highly motivated technology professional with an extensive background in leading
 
 *February 2015 to March 2016*
 #### Backcountry.com (Salt Lake City, UT - remote)
-**Senior Operations Tooling Engineer**    
+**Senior Operations Tooling Engineer**
 
 - Lead team of 4 dedicated DevOps Engineers implementing Infrastructure as Code for Technical Operations at Backcountry and modernizing legacy Java code deployments, ERP and web services.
 
@@ -65,7 +68,7 @@ Highly motivated technology professional with an extensive background in leading
 
 *July 2009 to February 2015*
 #### MotoSport.com (Portland, OR)
-**Senior Infrastructure Engineer**    
+**Senior Infrastructure Engineer**
 
 - Served as principal Engineer that managed all physical infrastructure, which included servers, workstations, mobile devices, telephony and networking devices for over 300 end users across multiple geographically diverse sites.
 - Designed, orchestrated and implemented migration from Windows/Apache/PHP/MSSQL stack to Debian-based architecture using Ansible for deployments and provisioning, syslog-ng and Nagios for monitoring and availability.
@@ -75,4 +78,4 @@ Highly motivated technology professional with an extensive background in leading
 ## Education
 
 Portland Community College Portland, OR
-Associate of Science Computer Science 
+Associate of Science Computer Science
